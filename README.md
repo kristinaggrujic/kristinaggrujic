@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hola! 👋
 
+- I am Kristina, serving as the Lead FrontEnd Developer at [MotionOps](https://motionops.com/).
+- With over 8 years of experience in the field, my focus has been on React and React Native development.
+- I am consistently dedicated to enhancing both my personal skills and the quality of the code I produce.
+- My coding principles prioritize readability, maintainability, and overall code quality, reflecting a commitment to delivering high-standard solutions.
+
+- ⚡ Fun fact: Shiba inus are considered catlike. I find that mine, however, reminds me more of a hedgehog
+
+  
 <!--
 **kristinaggrujic/kristinaggrujic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
